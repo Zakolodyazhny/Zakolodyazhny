@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zakolodyazhny
-- 👀 I’m interested in programming and electronix.
-- 🌱 I’m currently learning LINQ, Entity framework (.Net)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Zakolodyazhny Volodymyr
+- 👀 I’m interested in programming and electronics.
+- 🌱 I’m currently learning ASP.NET, Entity framework (.Net)
+- 💞️ I’m good in C#/SQL
+- 📫 How to reach me : zakolodyazhnyv@gmail.com
 
 <!---
 Zakolodyazhny/Zakolodyazhny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
