@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zakolodyazhny Volodymyr
 - 👀 I’m interested in programming and electronics.
-- 🌱 I’m currently learning ASP.NET, Entity framework (.Net)
-- 💞️ I’m good in C#/SQL
+- 🌱 I’m currently learning Embedded Programming
+- 💞️ I’m good in electronix and C#/SQL
 - 📫 How to reach me : zakolodyazhnyv@gmail.com
 
 <!---
